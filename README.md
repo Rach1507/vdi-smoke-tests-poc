@@ -96,3 +96,4 @@ The Playwright configuration (`playwright.config.js`) includes:
 1
 2
 3
+4
