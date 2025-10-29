@@ -94,3 +94,4 @@ The Playwright configuration (`playwright.config.js`) includes:
 
 #Dummy change 
 1
+2
