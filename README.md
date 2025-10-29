@@ -89,3 +89,8 @@ The Playwright configuration (`playwright.config.js`) includes:
 - Reporters: HTML and List
 - Screenshots on failure
 - Trace on retry
+
+
+
+#Dummy change 
+1
