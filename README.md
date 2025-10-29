@@ -7,7 +7,7 @@ A proof of concept repository for running Playwright smoke tests with Chrome bro
 - **Playwright Tests**: Automated browser tests using Playwright
 - **Chrome Browser**: Tests run in Chromium/Chrome browser
 - **Sample Tests**:
-  - `talkdesk.spec.js`: Opens talkdesk.com and verifies the page loads
+  - `launch-chrome.spec.js`: Opens talkdesk.com and verifies the page loads
   - `hello-world.spec.js`: A simple test that prints "Hello World"
 - **HTML Test Reports**: Generates detailed HTML reports of test results
 - **GitHub Actions**: Automated testing on self-hosted runners
@@ -74,7 +74,7 @@ The repository includes a GitHub Actions workflow that runs tests on a self-host
 │       └── playwright.yml    # GitHub Actions workflow
 ├── tests/
 │   ├── hello-world.spec.js   # Hello World test
-│   └── talkdesk.spec.js      # Talkdesk.com test
+│   └── launch-chrome.spec.js      # Talkdesk.com test
 ├── playwright.config.js       # Playwright configuration
 ├── package.json              # Project dependencies
 └── README.md                 # This file
